@@ -1,6 +1,8 @@
 **Eğitim Hakkında**     
 Eğitim *makine öğrenmesinin* temellerinden başlayarak yapay zeka alanının en güncel konularına kadar gelmeyi amaç edinmektedir. Bu noktada vizyonumuz hızla gelişen bu alanda sürekli içerik üreten bir eğitim serisi hazırlamaktır. Eğitim boyunca kullanılan dökümanlar ve hazırlanan videolar tamamen ücretsiz bir şekilde kursiyerlerin hizmetine sunulmaktadır. Eğitim yapay zekanın farklı alanlarını kapsayacak modüller olarak hazırlanmaktadır. Her bir modülün içeriğine ve eğitmen bilgilerine ilgili modül dosyası içerisinden erişebilirsiniz.     
 
+Eğitim tanıtım videosuna [buradan](https://www.youtube.com/watch?v=VGFW7YQx59E) ulaşabilirsiniz.       
+
 **Eğitmenler Hakkında**     
 Özgür Yıldırım (Module-0,1,2,3,4) [Github](https://github.com/OzgurYldrm) | [LinkedIn](https://www.linkedin.com/in/0zgur-yldrm/)        
 
