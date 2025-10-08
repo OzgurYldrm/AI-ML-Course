@@ -14,3 +14,8 @@ Eğitime ait bütün dökümanlar ilgili klasör altında erişilebilir durumdad
 
 **Geri Bildirim**       
 Eğitime ait herhangi bir geri bildirimde bulunmak ya da eğitmenler ile iletişime geçmek isterseniz ilgili eğitmene klasörlerin altında belirtilen iletişim kanallarından ulaşabilirsiniz. Geri dönüşlerinizin eğitimin geliştirilmesinde ve daha kaliteli içerikler hazırlanmasında önemli olduğunu belirtmek isteriz.
+
+**Credits**
+Eğitimin geliştirilmesine katkı sunan arkadaşların isimleri aşağıdaki listede yer almaktadır.       
+Berna Tanrısever [github](https://github.com/Berna-T) | [LinkedIn](https://www.linkedin.com/in/berna-tanrisever/)     
+Kürşad Aybars Karslı [github](https://github.com/mrvictory1) | [LinkedIn](https://www.linkedin.com/in/k%C3%BCr%C5%9Fad-aybars-karsl%C4%B1-046a17349/)
