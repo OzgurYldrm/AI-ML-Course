@@ -4,7 +4,8 @@ Eğitim *makine öğrenmesinin* temellerinden başlayarak yapay zeka alanının 
 Eğitim tanıtım videosuna [buradan](https://www.youtube.com/watch?v=VGFW7YQx59E) ulaşabilirsiniz.       
 
 **Eğitmenler Hakkında**     
-Özgür Yıldırım (Module-0,1,2,3,4) [Github](https://github.com/OzgurYldrm) | [LinkedIn](https://www.linkedin.com/in/0zgur-yldrm/)        
+Özgür Yıldırım (Module-0,1,2,3,4,5) [Github](https://github.com/OzgurYldrm) | [LinkedIn](https://www.linkedin.com/in/0zgur-yldrm/)        
+İzzet Yılmaz (Module-5) [Github](https://github.com/izzetyilmazz) | [LinkedIn](https://www.linkedin.com/in/izzet-yilmazz/)      
 
 **Eğitim Akışı**        
 Eğitim teorik ve pratiği bir arada bulunduracak bir şekilde organize edilmiştir. Eğitim dökümanları içerisinde teorik temellerin anlatıldığı sunumlar, bilgilerin kod karşılığını gösteren *python notebook'ları* ve pratik bilgiyi pekiştirmek için hazırlanmış *proje videoları/notebook'ları* bulunmaktadır. Eğitim için tavsiye edilen akış Module-0'dan başlayarak ilerlemektir, ancak kendi isteğinize göre sırayı değiştirebilir ya da gerek olmadığını düşündüğünüz modülleri atlayabilirsiniz.     
@@ -18,4 +19,6 @@ Eğitime ait herhangi bir geri bildirimde bulunmak ya da eğitmenler ile iletiş
 **Credits**     
 Eğitimin geliştirilmesine katkı sunan arkadaşların isimleri aşağıdaki listede yer almaktadır.       
 Berna Tanrısever [github](https://github.com/Berna-T) | [LinkedIn](https://www.linkedin.com/in/berna-tanrisever/)     
-Kürşad Aybars Karslı [github](https://github.com/mrvictory1) | [LinkedIn](https://www.linkedin.com/in/k%C3%BCr%C5%9Fad-aybars-karsl%C4%B1-046a17349/)
+Kürşad Aybars Karslı [github](https://github.com/mrvictory1) | [LinkedIn](https://www.linkedin.com/in/k%C3%BCr%C5%9Fad-aybars-karsl%C4%B1-046a17349/)       
+Elif ÖZKAN [github](https://github.com/eliffozkan) | [LinkedIn](https://www.linkedin.com/in/elif-özkan-347497391)       
+Leyla Duru Tuncer [github](https://github.com/leia783)
