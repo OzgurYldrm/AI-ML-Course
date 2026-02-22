@@ -4,7 +4,7 @@ Eğitim *makine öğrenmesinin* temellerinden başlayarak yapay zeka alanının 
 Eğitim tanıtım videosuna [buradan](https://www.youtube.com/watch?v=VGFW7YQx59E) ulaşabilirsiniz.       
 
 **Eğitmenler Hakkında**     
-Özgür Yıldırım (Module-0,1,2,3,4,5) [Github](https://github.com/OzgurYldrm) | [LinkedIn](https://www.linkedin.com/in/0zgur-yldrm/)        
+Özgür Yıldırım (Module-0,1,2,3,4,5,6) [Github](https://github.com/OzgurYldrm) | [LinkedIn](https://www.linkedin.com/in/0zgur-yldrm/)        
 İzzet Yılmaz (Module-5) [Github](https://github.com/izzetyilmazz) | [LinkedIn](https://www.linkedin.com/in/izzet-yilmazz/)      
 
 **Eğitim Akışı**        
@@ -21,4 +21,4 @@ Eğitimin geliştirilmesine katkı sunan arkadaşların isimleri aşağıdaki li
 Berna Tanrısever [github](https://github.com/Berna-T) | [LinkedIn](https://www.linkedin.com/in/berna-tanrisever/)     
 Kürşad Aybars Karslı [github](https://github.com/mrvictory1) | [LinkedIn](https://www.linkedin.com/in/k%C3%BCr%C5%9Fad-aybars-karsl%C4%B1-046a17349/)       
 Elif ÖZKAN [github](https://github.com/eliffozkan) | [LinkedIn](https://www.linkedin.com/in/elif-özkan-347497391)       
-Leyla Duru Tuncer [github](https://github.com/leia783)
+Leyla Duru Tuncer [github](https://github.com/leia783) | [LinkedIn](https://www.linkedin.com/in/leyla-duru-tuncer-a96b503aa/)
